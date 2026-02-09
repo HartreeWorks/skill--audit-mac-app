@@ -287,7 +287,3 @@ This audit **CANNOT** detect:
 
 - `references/entitlements-guide.md` - Full entitlement risk classification
 - `references/check-patterns.md` - All grep patterns with explanations
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
